@@ -1,0 +1,24 @@
+{
+  "name": "@antonsurfer/ajs",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonSurfer/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonSurfer/ajs/issues"
+  },
+  "homepage": "https://github.com/AntonSurfer/ajs#readme",
+  "description": ""
+}
